@@ -10,11 +10,11 @@ _What is the aim of your changes_
 
 ## API Checklist
 
-- [] Unit tests
-- [] QA tests
+- [ ] Unit tests
+- [ ] QA tests
 
 ## UI Checklist
 
-- [] ESLint
-- [] Unit tests
-- [] QA tests
+- [ ] ESLint
+- [ ] Unit tests
+- [ ] QA tests
