@@ -1,3 +1,7 @@
 # UI Template
 
-`PR URL`&template=UI.md
+# Description
+
+## Screenshots
+
+## Checklist
